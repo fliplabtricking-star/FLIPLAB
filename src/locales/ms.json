@@ -1,0 +1,41 @@
+{
+  "registration": {
+    "title": "FLIPLAB",
+    "subtitle": "AKADEMI",
+    "formTitle": "PENDAFTARAN RASMI",
+    "fullName": "Nama Penuh (mengikut IC/Pasport)",
+    "fullNamePlaceholder": "Masukkan nama penuh anda",
+    "age": "Umur",
+    "gender": "Jantina",
+    "male": "Lelaki",
+    "female": "Perempuan",
+    "whatsapp": "Nombor WhatsApp",
+    "whatsappPlaceholder": "cth. +60123456789",
+    "guardian": "Nama Penjaga (jika di bawah 18)",
+    "guardianPlaceholder": "Masukkan nama penjaga",
+    "experience": "Pengalaman Lepas (Pilihan)",
+    "experiencePlaceholder": "Beritahu kami tentang latar belakang anda",
+    "classSelection": "Pemilihan Kelas",
+    "package": "Pakej",
+    "selectPackage": "Pilih Pakej",
+    "monthly": "Bulanan",
+    "trial": "Percubaan",
+    "uploadReceipt": "Muat Naik Resit Pembayaran",
+    "uploadInstruction": "Klik untuk muat naik atau seret dan lepas",
+    "uploadLimits": "SVG, PNG, JPG atau GIF (maks. 5MB)",
+    "totalAmount": "Jumlah Keseluruhan:",
+    "confirmRegistration": "Sahkan Pendaftaran",
+    "registering": "Mendaftar..."
+  },
+  "success": {
+    "title": "Pendaftaran Berjaya!",
+    "accessGranted": "Akses Diberikan",
+    "instruction": "Tunjukkan kod QR ini di kaunter pendaftaran untuk mengakses kelas anda.",
+    "returnHome": "Kembali ke Laman Utama"
+  },
+  "language": {
+    "en": "English",
+    "ms": "Bahasa Melayu",
+    "ar": "العربية"
+  }
+}

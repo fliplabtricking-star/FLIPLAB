@@ -1,0 +1,41 @@
+{
+  "registration": {
+    "title": "FLIPLAB",
+    "subtitle": "أكاديمية",
+    "formTitle": "التسجيل الرسمي",
+    "fullName": "الاسم الكامل (كما في الهوية/جواز السفر)",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    "age": "العمر",
+    "gender": "الجنس",
+    "male": "ذكر",
+    "female": "أنثى",
+    "whatsapp": "رقم الواتساب",
+    "whatsappPlaceholder": "مثال: +60123456789",
+    "guardian": "اسم ولي الأمر (إذا كان العمر أقل من 18)",
+    "guardianPlaceholder": "أدخل اسم ولي الأمر",
+    "experience": "خبرة سابقة (اختياري)",
+    "experiencePlaceholder": "أخبرنا عن خلفيتك الرياضية",
+    "classSelection": "اختيار الفصل",
+    "package": "الباقة",
+    "selectPackage": "اختر الباقة",
+    "monthly": "شهري",
+    "trial": "تجريبي",
+    "uploadReceipt": "إرفاق إيصال الدفع",
+    "uploadInstruction": "اضغط للرفع أو اسحب الملف هنا",
+    "uploadLimits": "الامتدادات المسموحة: SVG, PNG, JPG أو GIF (الحد الأقصى 5MB)",
+    "totalAmount": "المبلغ الإجمالي:",
+    "confirmRegistration": "تأكيد التسجيل",
+    "registering": "جاري التسجيل..."
+  },
+  "success": {
+    "title": "تم التسجيل بنجاح!",
+    "accessGranted": "تم منح صلاحية الدخول",
+    "instruction": "يرجى إبراز رمز الاستجابة السريعة (QR) هذا في الاستقبال لدخول الفصل.",
+    "returnHome": "العودة للرئيسية"
+  },
+  "language": {
+    "en": "English",
+    "ms": "Bahasa Melayu",
+    "ar": "العربية"
+  }
+}

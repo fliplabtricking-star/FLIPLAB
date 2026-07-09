@@ -1,0 +1,41 @@
+{
+  "registration": {
+    "title": "FLIPLAB",
+    "subtitle": "ACADEMY",
+    "formTitle": "OFFICIAL REGISTRATION",
+    "fullName": "Full Name (as per IC/Passport)",
+    "fullNamePlaceholder": "Enter your full name",
+    "age": "Age",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "whatsapp": "WhatsApp Number",
+    "whatsappPlaceholder": "e.g. +60123456789",
+    "guardian": "Guardian Name (if under 18)",
+    "guardianPlaceholder": "Enter guardian's name",
+    "experience": "Previous Experience (Optional)",
+    "experiencePlaceholder": "Tell us about your background",
+    "classSelection": "Class Selection",
+    "package": "Package",
+    "selectPackage": "Select Package",
+    "monthly": "Monthly",
+    "trial": "Trial",
+    "uploadReceipt": "Upload Payment Receipt",
+    "uploadInstruction": "Click to upload or drag and drop",
+    "uploadLimits": "SVG, PNG, JPG or GIF (max. 5MB)",
+    "totalAmount": "Total Amount:",
+    "confirmRegistration": "Confirm Registration",
+    "registering": "Registering..."
+  },
+  "success": {
+    "title": "Registration Successful!",
+    "accessGranted": "Access Granted",
+    "instruction": "Show this QR code at the reception to access your class.",
+    "returnHome": "Return to Home"
+  },
+  "language": {
+    "en": "English",
+    "ms": "Bahasa Melayu",
+    "ar": "العربية"
+  }
+}

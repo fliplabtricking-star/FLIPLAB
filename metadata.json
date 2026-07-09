@@ -1,0 +1,10 @@
+{
+  "name": "FLIPLAB",
+  "description": "Registration and admin dashboard for FLIPLAB",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
